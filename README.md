@@ -6,17 +6,17 @@ Bem-vindo ao **MarkBurger**, um site responsivo e moderno para uma hamburgueria 
 
 MarkBurger/<br> 
 ├── index.html  # **Página principal do site** <br>
-              ├── CSS/ <br>
-                └──styles.css # **Estilos principais** <br>
-                └── responsive.css  # **Estilos responsivos** <br>
+               &#8287;&#8287;&#8287;&#8287;├── CSS/ <br>
+                &#8287;&#8287;&#8287;&#8287;└──styles.css # **Estilos principais** <br>
+                    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── responsive.css  # **Estilos responsivos** <br>
               ├── JS/<br> 
                 └── script.js **Scripts personalizados** <br>
-                └── scrollreveal.min.js  # **Biblioteca para animações de scroll** <br>
+                  └── scrollreveal.min.js  # **Biblioteca para animações de scroll** <br>
               ├── Img/  # **Imagens utilizadas no site** <br>
                 └── logo-burger.svg <br>
-                └── home-burger.png <br>
-                └── popular-burger-chicken.png <br>
-                └── ... (outras imagens) <br>
+                  └── home-burger.png <br>
+                    └── popular-burger-chicken.png <br>
+                      └── ... (outras imagens) <br>
 
 
 
@@ -41,7 +41,7 @@ MarkBurger/<br>
 
 ## 📸 Prévia do Projeto
 
-![MarkBurger Preview](Img/home-burger.png)
+![MarkBurger Preview](Img/)
 
 ## 🛠️ Como Executar o Projeto
 
