@@ -41,7 +41,7 @@ Bem-vindo ao **MarkBurger**, um site responsivo e moderno para uma hamburgueria 
 
 ## 📸 Prévia do Projeto
 
-![MarkBurger Preview](Img/)
+![MarkBurger Preview](Img/readme.img.png)
 
 ## 🛠️ Como Executar o Projeto
 
