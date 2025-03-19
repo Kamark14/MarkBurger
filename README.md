@@ -4,20 +4,20 @@ Bem-vindo ao **MarkBurger**, um site responsivo e moderno para uma hamburgueria 
 
 ## 📂 Estrutura do Projeto
 
-MarkBurger/<br> 
-├── index.html  # **Página principal do site** <br>
-               &#8287;&#8287;&#8287;&#8287;├── CSS/ <br>
-                &#8287;&#8287;&#8287;&#8287;└──styles.css # **Estilos principais** <br>
-                    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── responsive.css  # **Estilos responsivos** <br>
-              ├── JS/<br> 
-                └── script.js **Scripts personalizados** <br>
-                  └── scrollreveal.min.js  # **Biblioteca para animações de scroll** <br>
+**MarkBurger/**<br> <br>
+├── index.html  # **Página principal do site** <br><br>
+               ├── CSS/ <br>
+                &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└──styles.css # **Estilos principais** <br>
+                    &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── responsive.css  # **Estilos responsivos** <br><br>
+              ├── JS/<br>
+                 &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── script.js **Scripts personalizados** <br>
+                  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── scrollreveal.min.js  # **Biblioteca para animações de scroll** <br><br>
               ├── Img/  # **Imagens utilizadas no site** <br>
-                └── logo-burger.svg <br>
-                  └── home-burger.png <br>
-                    └── popular-burger-chicken.png <br>
-                      └── ... (outras imagens) <br>
-
+                 &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── logo-burger.svg <br>
+                  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── home-burger.png <br>
+                     &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── popular-burger-chicken.png <br>
+                      &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;└── ... (outras imagens) <br>
+<br>
 
 
 ## 🌟 Funcionalidades
